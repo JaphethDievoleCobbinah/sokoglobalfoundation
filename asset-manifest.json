@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sokoglobalfoundation/static/css/main.5041570e.css",
+    "main.js": "/sokoglobalfoundation/static/js/main.9932e099.js",
+    "static/media/Space.mp4": "/sokoglobalfoundation/static/media/Space.0b56c10630d5baf149c9.mp4",
+    "static/media/livelihood.png": "/sokoglobalfoundation/static/media/livelihood.aee216b7aef0850b1d13.png",
+    "static/media/environment.png": "/sokoglobalfoundation/static/media/environment.7b846d8829b6d423ff61.png",
+    "static/media/healthcare.png": "/sokoglobalfoundation/static/media/healthcare.1d91c2a881c707743b54.png",
+    "static/media/disaster.png": "/sokoglobalfoundation/static/media/disaster.760e38ae81293c89ac66.png",
+    "static/media/education1.png": "/sokoglobalfoundation/static/media/education1.a72546de99a40069040a.png",
+    "static/media/sunrise.jpg": "/sokoglobalfoundation/static/media/sunrise.dd82eb88a92f782bbe19.jpg",
+    "static/media/page-header.jpg": "/sokoglobalfoundation/static/media/page-header.fd3412329174d44dd714.jpg",
+    "static/media/hand.jpg": "/sokoglobalfoundation/static/media/hand.d0b92213a23f6041c604.jpg",
+    "static/media/facts.jpg": "/sokoglobalfoundation/static/media/facts.68283964d92e94d94091.jpg",
+    "static/media/donate.jpg": "/sokoglobalfoundation/static/media/donate.3b427f02e6a92dc18552.jpg",
+    "index.html": "/sokoglobalfoundation/index.html",
+    "main.5041570e.css.map": "/sokoglobalfoundation/static/css/main.5041570e.css.map",
+    "main.9932e099.js.map": "/sokoglobalfoundation/static/js/main.9932e099.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5041570e.css",
+    "static/js/main.9932e099.js"
+  ]
+}
